@@ -1,0 +1,8 @@
+{
+  "name": "btc-market-reader-pro",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node -e \"console.log('BTC Market Reader static assets ready')\""
+  }
+}
